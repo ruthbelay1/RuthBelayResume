@@ -1,0 +1,55 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.headerTabs{
+  background:transparent;
+  border: none !important;
+  cursor: pointer;
+  font-family: "Avantgarde", "TeXGyre Adventor", "URW Gothic L", sans-serif;
+  font-size: 25px;
+  padding: 20px;
+  padding-top: 15px;
+  float: right;
+}
+
+.headertabs:hover{
+  transform: scale (1.1)
+}
+.page { 
+    font-family: "Avantgarde", "TeXGyre Adventor", "URW Gothic L", sans-serif;
+    font-weight: 100;
+    position: relative; 
+    Height: 100vh;
+}
+
+.centertext{
+  text-align: center;
+  padding-top:0vh;
+  font-size: 150px;
+  color: rgb(0, 0, 0);
+}
+
+.backgroundimage {
+  background-image: url('./Images/poly.jpg');
+  background-size: 200%;
+  background-repeat: repeat-y;
+}
+
+.icon {
+  border: 2px transparent black;
+  border: radius 50%;
+  color: transparent;
+  padding-top: 15px;
+  padding:1px;
+  text-align: center;
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  margin:0 5px;
+}
+.icon:hover {transform: scale(1.10);}
+
+.centerImage{
+  padding-top: 15px;
+}
