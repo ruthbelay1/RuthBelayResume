@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RuthBelayResume/precache-manifest.a17a90bd77974e280f8b6e37a0a0d2fc.js"
+  "/RuthBelayResume/precache-manifest.ee6d656a5da1969f7a76feed56ccad9e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0c2dcd83718c29f15bcf81cddfbe801",
+    "revision": "b8c0e1f3c49af47df231129a0a1c9f57",
     "url": "/RuthBelayResume/index.html"
   },
   {
-    "revision": "0afa27598a02696b76f7",
-    "url": "/RuthBelayResume/static/css/main.17ced15b.chunk.css"
+    "revision": "7144e09026bb1f6002b5",
+    "url": "/RuthBelayResume/static/css/main.15fad3e3.chunk.css"
   },
   {
     "revision": "58f496bc1ce27350f0eb",
     "url": "/RuthBelayResume/static/js/2.98dcc9dd.chunk.js"
   },
   {
-    "revision": "0afa27598a02696b76f7",
+    "revision": "7144e09026bb1f6002b5",
     "url": "/RuthBelayResume/static/js/main.00e9473b.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RuthBelayResume/static/media/Linkedin.f08c524d.png"
   },
   {
-    "revision": "c546c3ed4e62049435835e2be8c2c8aa",
-    "url": "/RuthBelayResume/static/media/poly.c546c3ed.jpg"
+    "revision": "10f4c018871b17d856b821d53f5f4f8a",
+    "url": "/RuthBelayResume/static/media/map.10f4c018.png"
   }
 ]);
