@@ -31,7 +31,7 @@ html{
 }
 
 .backgroundimage {
-  background-image: url('./Images/poly.jpg');
+  background-image: url('./Images/map.png');
   background-size: 200%;
   background-repeat: repeat-y;
 }
